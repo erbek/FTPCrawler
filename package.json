@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "async": "^3.2.5",
+    "basic-ftp": "^5.0.5",
+    "p-limit": "^5.0.0"
+  }
+}
